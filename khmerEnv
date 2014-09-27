@@ -1,4 +1,4 @@
-# Used to setup Khmer within a Python Virtual Environment. This setup works without root access, so can be used to install khmmer  (http://khmer-protocols.readthedocs.org/en/v0.8.4/) within a user's directory on an HPC. This works, but consists of things taken from various sources and so there may well be more efficient ways of doing this!
+# Used to setup Khmer within a Python Virtual Environment. This setup works without root access, so can be used to install khmmer  (http://khmer-protocols.readthedocs.org/en/v0.8.4/) within a user's directory on an HPC. This works, but consists of things taken from various sources (http://khmer.readthedocs.org/en/v0.8/install.html) and so there could be more efficient ways of doing this than outlined here!
 
 # Set up virtual python
 wget http://peak.telecommunity.com/dist/virtual-python.py
