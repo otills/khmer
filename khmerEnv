@@ -16,5 +16,5 @@ cd virtualenv-*; python virtualenv.py ../khmerEnv; cd ..
 
 # Open the khmerEnv VirtualEnvironment and run commands as required.
 source khmerEnv/bin/activate
-
+ 
 deactivate (exits)
